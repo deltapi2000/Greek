@@ -8,9 +8,14 @@ http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
 #EXTINF:0,MEGA
 http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
 #EXTINF:0,MEGA CY
-
-#EXTINF:0,E
+#EXTINF:-1,0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]E TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0143.m3u8
+#EXTINF:0,E TV 2
 http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
+#EXTINF:-1,0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Tilesport[/COLOR]
+http://www.iptvsaga.com/play/tv3/0137.m3u8
+#EXTINF:-1,0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Mad TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0139.m3u8
 #EXTINF:0,EURONEWS
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
 #EXTINF:0,ERT 1
@@ -66,8 +71,6 @@ http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 rtmp://flashcloud.mediacdn.com:1935/live/kontratv
 #EXTINF:-1,OMEGA ΡΟΔΟΣ
 rtmp://stream2.omegatv.net/livepkgr/omegatv
-#EXTINF:-1,MAD TV (Freezes)
-rtmp://144.76.2.213:1935/live/livestream
 #EXTINF:-1,KIDS TV GR
 http://wpso.com:200/kids
 #EXTINF:-1 tvg-logo="Eurosport 1.png,Eurosport 1 UK
