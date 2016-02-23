@@ -8,14 +8,9 @@ http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
 #EXTINF:0,MEGA
 http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
 #EXTINF:0,MEGA CY
-#EXTINF:-1,0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]E TV[/COLOR]
-http://www.iptvsaga.com/play/tv3/0143.m3u8
-#EXTINF:0,E TV 2
+
+#EXTINF:0,E
 http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
-#EXTINF:-1,0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Tilesport[/COLOR]
-http://www.iptvsaga.com/play/tv3/0137.m3u8
-#EXTINF:-1,0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",[COLOR orange]Mad TV[/COLOR]
-http://www.iptvsaga.com/play/tv3/0139.m3u8
 #EXTINF:0,EURONEWS
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
 #EXTINF:0,ERT 1
@@ -24,21 +19,6 @@ http://nerit1-lh.akamaihd.net/i/nerit_1@120689/master.m3u8
 http://nerit2-lh.akamaihd.net/i/neritplus_1@121149/master.m3u8
 #EXTINF:0,ERT3
 http://ert3-lh.akamaihd.net/i/live_1@329807/master.m3u8
-#EXTINF:0,MESSINIA TV
-http://176.9.123.140:1935/messinia/messinia/master.m3u8
-#EXTINF:0,ELLINIKOS FM
-http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
-#EXTINF:0,MANA ELLADA TV
-http://iphone-streaming.ustream.tv/uhls/17099727/streams/live/iphone/playlist.m3u8
-#EXTINF:0,MAKELEIO TV
-http://makeliolive-lh.akamaihd.net/i/event_1@167269/master.m3u8
-#EXTINF:0,TV 1
-http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/7o98X3F.png",OMEGA TELEVISION
-http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
-#EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/wCnAUot.png",M.TV BUP
-http://stream.maktv.gr/i/live_1@332903/master.m3u8
-
 #EXTINF:0,VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:0,EPIRUS TV1
@@ -71,6 +51,8 @@ http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 rtmp://flashcloud.mediacdn.com:1935/live/kontratv
 #EXTINF:-1,OMEGA ΡΟΔΟΣ
 rtmp://stream2.omegatv.net/livepkgr/omegatv
+#EXTINF:-1,MAD TV (Freezes)
+rtmp://144.76.2.213:1935/live/livestream
 #EXTINF:-1,KIDS TV GR
 http://wpso.com:200/kids
 #EXTINF:-1 tvg-logo="Eurosport 1.png,Eurosport 1 UK
@@ -119,6 +101,54 @@ http://sfera.live24.gr/sfera4132
 http://loveradio.live24.gr/nitro4555
 #EXTINF:0,PAREA 104.0
 http://parea104.live24.gr:80/parea104
+
+
+#‎EXTM3U‬
+‪#‎EXTINF‬:-1,SPORT : DIGI SPORT 1*
+http://62.210.162.88:80/live/SPORT110/133323022016/2054.ts
+#EXTINF:-1,SPORT : DIGI SPORT 2*
+http://62.210.162.88:80/live/SPORT110/133323022016/2055.ts
+#EXTINF:-1,SPORT : DIGI SPORT 3*
+http://62.210.162.88:80/live/SPORT110/133323022016/2056.ts
+#EXTINF:-1,SPORT : SPORSTNET 1 CAN
+http://62.210.162.88:80/live/SPORT110/133323022016/2063.ts
+#EXTINF:-1,SPORT : SILK3*
+http://62.210.162.88:80/live/SPORT110/133323022016/2062.ts
+#EXTINF:-1,SPORT : BT SPORT/ESPN*
+http://62.210.162.88:80/live/SPORT110/133323022016/2049.ts
+#EXTINF:-1,SPORT : TYC SPORTS ARG
+http://62.210.162.88:80/live/SPORT110/133323022016/2035.ts
+#EXTINF:-1,SPORT : M4 SPORT HUN
+http://62.210.162.88:80/live/SPORT110/133323022016/2036.ts
+#EXTINF:-1,ROM : DOLCESPORT 1*
+http://62.210.162.88:80/live/SPORT110/133323022016/1831.ts
+#EXTINF:-1,ROM : DOLCESPORT 2*
+http://62.210.162.88:80/live/SPORT110/133323022016/1832.ts
+#EXTINF:-1,SPORT : skysports1*
+http://62.210.162.88:80/live/SPORT110/133323022016/1519.ts
+#EXTINF:-1,SPORT : skysports2*
+http://62.210.162.88:80/live/SPORT110/133323022016/1520.ts
+#EXTINF:-1,SPORT : skysports3*
+http://62.210.162.88:80/live/SPORT110/133323022016/1521.ts
+#EXTINF:-1,SPORT : skysports4*
+http://62.210.162.88:80/live/SPORT110/133323022016/1522.ts
+#EXTINF:-1,SPORT : skysports5*
+http://62.210.162.88:80/live/SPORT110/133323022016/1523.ts
+#EXTINF:-1,SPORT : BT SPORT EUROPE*
+http://62.210.162.88:80/live/SPORT110/133323022016/2067.ts
+#EXTINF:-1,SPORT : BT SPORT EUROPE SD*
+http://62.210.162.88:80/live/SPORT110/133323022016/2011.ts
+#EXTINF:-1,SPORT : sky sport f1*
+http://62.210.162.88:80/live/SPORT110/133323022016/2066.ts
+#EXTINF:-1,USA : SPORT USA*
+http://62.210.162.88:80/live/SPORT110/133323022016/1836.ts
+#EXTINF:-1,RU : FUTBOL 1*
+http://62.210.162.88:80/live/SPORT110/133323022016/1778.ts
+#EXTINF:-1,RU : NTV SPORT 2*
+http://62.210.162.88:80/live/SPORT110/133323022016/1777.ts
+#EXTINF:-1,SPORT : VIASAT SPORT*
+http://62.210.162.88:80/live/SPORT110/133323022016/2057.ts
+#EXTINF:-1,RU : SPORT 1*
 
 
 
