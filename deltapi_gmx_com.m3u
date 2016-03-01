@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="INFO",Welcome
+http://149.202.70.100/bsdev/info.php?action=trial_welcome&token=deltapi@gmx.com:nDBokDjNeW
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",Test Channels | ***** TEST CHANNELS *****
+http://bstream.eu/null.ts
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",Test Channels | ***** Greek *****
+http://bstream.eu/null.ts
+#EXTINF:-1 tvg-id="NovaCinema1.gr" tvg-shift="2" group-title="Test Channels",NOVACINEMA 1
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/VIP-GR-NOVACINEMA-1
+#EXTINF:-1 tvg-id="NovaSports1.gr" tvg-shift="2" group-title="Test Channels",NOVASPORTS 1 HD
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/VIP-GR-NOVASPORTS-1-HD
+#EXTINF:-1 tvg-id="DiscoveryID.gr" tvg-shift="2" group-title="Test Channels",DISCOVERY ID
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/VIP-GR-DISCOVERY-ID
+#EXTINF:-1 tvg-id="EuroSport1.gr" tvg-shift="2" group-title="Test Channels",EUROSPORT 1
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/VIP-GR-EUROSPORT-1
+#EXTINF:-1 tvg-id="MadHits.gr" tvg-shift="2" group-title="Test Channels",MAD
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/VIP-GR-MAD-HITS
+#EXTINF:-1 tvg-id="mega.gr" tvg-shift="2" group-title="Test Channels",MEGA
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/GR-MEGA
+#EXTINF:-1 tvg-id="alpha.gr" tvg-shift="2" group-title="Test Channels",ALPHA
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/GR-ALPHA
+#EXTINF:-1 tvg-id="Macedonia.gr" tvg-shift="2" group-title="Test Channels",MAKEDONIA TV
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/GR-MAKEDONIA-TV
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",Test Channels | ***** ITALIAN *****
+http://bstream.eu/null.ts
+#EXTINF:-1 tvg-id="Canale5.it" tvg-shift="2" group-title="Test Channels",Canale 5
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/IT-Canale-5
+#EXTINF:-1 tvg-id="PremiumAction.it" tvg-shift="2" group-title="Test Channels",Premium Action
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/IT-Premium-Action
+#EXTINF:-1 tvg-id="PremiumSport.it" tvg-shift="2" group-title="Test Channels",Premium Sport
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/IT-Premium-Sport
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",Test Channels | ***** U.K *****
+http://bstream.eu/null.ts
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-shift="2" group-title="Test Channels",BT Sports 1
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/UK-BT-Sports-1
+#EXTINF:-1 tvg-id="SkySports1.uk" tvg-shift="2" group-title="Test Channels",Sky Sports 1 HD
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/UK-Sky-Sports-1-HD
+#EXTINF:-1 tvg-id="SkyMoviesActionThriller.uk" tvg-shift="2" group-title="Test Channels",Sky Movies Action
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/UK-Sky-Movies-Action
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",Test Channels | ***** GERMAN *****
+http://bstream.eu/null.ts
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-shift="2" group-title="Test Channels",Sky Action
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/DE-Sky-Action
+#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-shift="2" group-title="Test Channels",SKY Bundesliga 1
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/DE-SKY-Bundesliga-1
+#EXTINF:-1 tvg-id="ZDF.de" tvg-shift="2" group-title="Test Channels",ZDF
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/DE-ZDF
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",Test Channels | ***** PORTUGUESE *****
+http://bstream.eu/null.ts
+#EXTINF:-1 tvg-id="AXNBlack.pt" tvg-shift="2" group-title="Test Channels",AXN Black
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/PT-AXN-Black
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-shift="2" group-title="Test Channels",Sport TV 1
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/PT-Sport-TV-1
+#EXTINF:-1 tvg-id="tvc1.pt" tvg-shift="2" group-title="Test Channels",TVC 1
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/PT-TVC-1
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",Test Channels | ***** TURKISH *****
+http://bstream.eu/null.ts
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",A Spor
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/TR-A-Spor
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",FOX
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/TR-FOX
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",TRT 1
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/TR-TRT-1
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",Test Channels | ***** FRENCH *****
+http://bstream.eu/null.ts
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",CanalPlus Decale
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/FR-CanalPlus-Decale
+#EXTINF:-1 tvg-id="France2.fr" tvg-shift="2" group-title="Test Channels",France 2
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/FR-France-2
+#EXTINF:-1 tvg-id="CANALplusSPORT.fr" tvg-shift="2" group-title="Test Channels",CanalPlus Sport
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/FR-CanalPlus-Sport
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",Test Channels | ***** ALBANIAN *****
+http://bstream.eu/null.ts
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",Film Hits
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/AL-Film-Hits
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",Klan
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/AL-Klan
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",Super Sport 2
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/AL-Super-Sport-2
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",Test Channels | ***** SPANISH *****
+http://bstream.eu/null.ts
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",Antenna 3
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/ES-Antenna-3
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",CanalPlus Futbol
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/ES-CanalPlus-Futbol
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",FOX
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/ES-FOX
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",Test Channels | ***** SCANDINAVIAN *****
+http://bstream.eu/null.ts
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",NPO 1
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/SC-NPO-1
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",Viasat Film
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/SC-Viasat-Film
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",Test Channels | ***** NETHERLANDS *****
+http://bstream.eu/null.ts
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",NPO 1
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/NL-NPO-1
+#EXTINF:-1 tvg-id="FoxSport1.nl" tvg-shift="2" group-title="Test Channels",Fox Sports 1
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/NL-Fox-Sports-1
+#EXTINF:-1 tvg-id="RTL4.nl" tvg-shift="2" group-title="Test Channels",RTL 4
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/NL-RTL-4
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",Test Channels | ***** EX-YUGOSLAVIAN *****
+http://bstream.eu/null.ts
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",CineStar Premiere 1
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/RS-CineStar-Premiere-1
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",Pink Crime & Mystery
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/RS-Pink-Crime-&-Mystery
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",Prva
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/RS-Prva
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",Test Channels | ***** SPORTS *****
+http://bstream.eu/null.ts
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",BEIN SPORTS 1
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/BEIN-SPORTS-1
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",SuperSport 1 HD
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/SUPER-SPORTS-1
+#EXTINF:-1 tvg-id="" tvg-shift="2" group-title="Test Channels",Arena sport 1
+http://ssd.bstream.eu/bsdev/live/?deltapi@gmx.com/nDBokDjNeW/SPORTS-Arena-sport-1
