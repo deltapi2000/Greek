@@ -12,7 +12,7 @@ http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
 http://www.iptvsaga.com/play/tv3/0143.m3u8
 #EXTINF:0,E TV 2
 http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
-#EXTINF:-1,0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",Tilesport
+#EXTINF:0,Tilesport
 http://www.iptvsaga.com/play/tv3/0137.m3u8
 #EXTINF:-1,0070 tvg-id="" group-title="Greek" tvg-logo="00000000.png",Mad TV
 http://www.iptvsaga.com/play/tv3/0139.m3u8
@@ -34,7 +34,7 @@ http://iphone-streaming.ustream.tv/uhls/17099727/streams/live/iphone/playlist.m3
 http://makeliolive-lh.akamaihd.net/i/event_1@167269/master.m3u8
 #EXTINF:0,TV 1
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
-#EXTINF:0, group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="http://i.imgur.com/7o98X3F.png",OMEGA TELEVISION
+#EXTINF:0,OMEGA TELEVISION
 http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
 #EXTINF:0, group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="http://i.imgur.com/wCnAUot.png",M.TV BUP
 http://stream.maktv.gr/i/live_1@332903/master.m3u8
